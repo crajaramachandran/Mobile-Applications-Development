@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quest Hunt</string>
+    <string name="standard">Standard</string>
+    <string name="groups">Groups</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="priority">Priority</string>
+    <string name="quest">Quest</string>
+</resources>

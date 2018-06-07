@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="list_divider">#123456</color>
+    <color name="list_select">#ff4000</color>
+    <color name="easy">#0fb784</color>
+    <color name="medium">#3F70A5</color>
+    <color name="hard">#ff4000</color>
+</resources>

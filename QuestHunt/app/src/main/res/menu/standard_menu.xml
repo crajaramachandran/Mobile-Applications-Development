@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/add_quest"
+        android:title="add_quest"
+        android:icon="@drawable/ic_add_white_24dp"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/completed_quests"
+        android:icon="@drawable/ic_check_white_24dp"
+        android:title="completed_quests"
+        app:showAsAction="always"/>
+    <group
+        android:icon="@drawable/ic_sort_white_24dp">
+        <item
+            android:id="@+id/default_order"
+            android:title="Default Order"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/sort_by_deadline_ascending"
+            android:title="Deadline ascending"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/sort_by_deadline_descending"
+            android:title="Deadline descending"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/sort_by_difficulty_ascending"
+            android:title="Difficulty ascending"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/sort_by_difficulty_descending"
+            android:title="Difficulty descending"
+            app:showAsAction="ifRoom"/>
+    </group>
+
+</menu>
