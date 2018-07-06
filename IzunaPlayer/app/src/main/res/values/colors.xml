@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111111</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorLight">#212121</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#fafafa</color>
+    <color name="textColorSecondary">#c7c7c7</color>
+    <color name="notification_bg">#e91e63</color>
+</resources>
